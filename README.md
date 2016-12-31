@@ -60,8 +60,8 @@ Any of these sections or additional subsections can be added as headers, subhead
 
 ## Mainteiners
 
-1. https://github.com/leog
-2. https://github.com/tunnckoCore
+1. [@leog](https://github.com/leog)
+2. [@tunnckoCore](https://github.com/tunnckoCore)
 
 [Guidelines vs. Standards appendix]: http://gh-standards.github.io/goto/guidelines-vs-standards
 [Standard life cycle appendix]: http://gh-standards.github.io/goto/standard-life-cycle
